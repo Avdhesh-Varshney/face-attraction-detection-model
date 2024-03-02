@@ -85,43 +85,43 @@
 <table align='center'>
   <tr align='center'>
     <td align='center'>
-      <img alt="graph" src="/static/images/Attractive_distribution.png" >
+      <img alt="graph" width="500" height="300" src="/static/images/Attractive_distribution.png" >
     </td>
     <td align='center'>
-      <img alt="graph" src="/static/images/data_augmentation.png" >
-    </td>
-  </tr>
-
-  <tr align='center'>
-    <td align='center'>
-      <img alt="graph" src="/static/images/lefteye_x_and_lefteye_y.png" >
-    </td>
-    <td align='center'>
-      <img alt="graph" src="/static/images/righteye_x_and_righteye_y.png" >
+      <img alt="graph" width="500" height="300" src="/static/images/data_augmentation.png" >
     </td>
   </tr>
 
   <tr align='center'>
     <td align='center'>
-      <img alt="graph" src="/static/images/leftmouth_x_and_leftmouth_y.png" >
+      <img alt="graph" width="500" height="300" src="/static/images/lefteye_x_and_lefteye_y.png" >
     </td>
     <td align='center'>
-      <img alt="graph" src="/static/images/rightmouth_x_and_rightmouth_y.png" >
-    </td>
-  </tr>
-
-  <tr align='center'>
-    <td align='center'>
-      <img alt="graph" src="/static/images/width_and_height.png" >
-    </td>
-    <td align='center'>
-      <img alt="graph" src="/static/images/x_1_and_y_1.png" >
+      <img alt="graph" width="500" height="300" src="/static/images/righteye_x_and_righteye_y.png" >
     </td>
   </tr>
 
   <tr align='center'>
     <td align='center'>
-      <img alt="graph" src="/static/images/nose_x_and_nose_y.png" >
+      <img alt="graph" width="500" height="300" src="/static/images/leftmouth_x_and_leftmouth_y.png" >
+    </td>
+    <td align='center'>
+      <img alt="graph" width="500" height="300" src="/static/images/rightmouth_x_and_rightmouth_y.png" >
+    </td>
+  </tr>
+
+  <tr align='center'>
+    <td align='center'>
+      <img alt="graph" width="500" height="300" src="/static/images/width_and_height.png" >
+    </td>
+    <td align='center'>
+      <img alt="graph" width="500" height="300" src="/static/images/x_1_and_y_1.png" >
+    </td>
+  </tr>
+
+  <tr align='center'>
+    <td align='center'>
+      <img alt="graph" width="500" height="300" src="/static/images/nose_x_and_nose_y.png" >
     </td>
   </tr>
 

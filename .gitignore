@@ -1,0 +1,13 @@
+# Cache files
+__pycache__
+.ipynb_checkpoints
+
+# Dataset
+*.csv
+
+# Virtual environment
+myenv
+
+# Model weight files after training - 185 MB 
+weights.best.inc.attractive.hdf5
+

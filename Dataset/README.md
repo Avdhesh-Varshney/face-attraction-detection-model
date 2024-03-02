@@ -1,4 +1,4 @@
-<h1 align='center'>💥 Faces Attraction Detection Model 💥</h1>
+<h1 align='center'>💥 Face Attraction Detection Model 💥</h1>
 
 ### :zap: **GOAL** 
 
@@ -66,24 +66,24 @@ There are 40 features and 202599 entries in this dataset.
 <table align='center'>
   <tr align='center'>
     <td align='center'>
-      <img alt='Fraud' src='../static/images/test-1.jpg' >
+      <img alt='Pass' src='../static/images/test-1.jpg' >
     </td>
     <td align='center'>
-      <img alt='Fraud' src='../static/images/test-1_input.jpg' >
+      <img alt='Pass' src='../static/images/test-1_input.jpg' >
     </td>
     <td align='center'>
-      <img alt='Fraud' src='../static/images/test-1_output.png' >
+      <img alt='Pass' src='../static/images/test-1_output.png' >
     </td>
   </tr>
   <tr align='center'>
     <td align='center'>
-      <img alt='Fraud' src='../static/images/test-2.jpg' >
+      <img alt='Fail' src='../static/images/test-2.jpg' >
     </td>
     <td align='center'>
-      <img alt='Fraud' src='../static/images/test-2_input.jpg' >
+      <img alt='Fail' src='../static/images/test-2_input.png' >
     </td>
     <td align='center'>
-      <img alt='Fraud' src='../static/images/test-2_output.png' >
+      <img alt='Fail' src='../static/images/test-2_output.png' >
     </td>
   </tr>
 </table>
